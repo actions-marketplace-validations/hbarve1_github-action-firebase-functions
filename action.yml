@@ -1,0 +1,9 @@
+name: 'Deploy to Firebase Functions'
+author: 'Himank Honey Barve <hbarve1592@gmail.com>'
+description: 'A GitHub Action to deploy to Firebase Functions'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'cloud'
+  color: 'orange'

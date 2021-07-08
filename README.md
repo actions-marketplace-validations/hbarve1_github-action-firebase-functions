@@ -25,4 +25,3 @@ jobs:
       env:
         FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
 ```
-# github-action-firebase-functions
